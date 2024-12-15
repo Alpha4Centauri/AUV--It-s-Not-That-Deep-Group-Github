@@ -1,0 +1,1 @@
+Team "It's Not that Deep" program for the AUV for MIT BWSI 2024. Includes reinforcement learning & YOLO object detection for preemptive enemy AUV detection, April Tag scanning, and flank movement schemes to avoid exposing our own April Tags to the enemy AUV as both AUVs autonomously navigate in a swimming pool.
